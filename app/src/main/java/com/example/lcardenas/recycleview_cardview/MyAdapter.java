@@ -23,6 +23,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
         this.nombres =  nombres;
         this.layout = layout;
         this.itemClickListener = listener;
+        
     }
 
     @Override
